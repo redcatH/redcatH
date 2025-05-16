@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @redcatH
-- 👀 I’m interested in c#,c++,golang,nodejs,crack
+- 👀 I’m interested in c#,python,c++,golang,nodejs,crack
 - 🌱 I’m currently learning more
 - 💞️ I’m looking to collaborate on .Net Development 
 <!--- - 📫 How to reach me ...--->
